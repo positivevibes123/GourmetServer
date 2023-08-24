@@ -555,7 +555,7 @@ custom-quit-message: "&b🛜&b &c← &r{PREFIX}{PLAYER}{SUFFIX}"
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-new-username-message: "none"
+custom-new-username-message: "Welcome {PLAYER}! Here's a link to the discord: https://discord.gg/X8JJ9vcjKn"
 
 # Should Essentials override the vanilla "Server Full" message with its own from the language file?
 # Set to false to keep the vanilla message.
